@@ -25,8 +25,8 @@ const HeroSection = ({ screenWidth }) => {
               "In your desired domain",
               "Gain hands-on experience",
             ]}
-            typeSpeed={130}
-            backSpeed={100}
+            typeSpeed={100}
+            backSpeed={70}
             loop
           />
         </div>
