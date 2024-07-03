@@ -70,10 +70,10 @@ const Footer = () => {
               </a>
             </div>
             <p className="text-[#4A5056] text-[16px] m-1">
-              <a href="tel:+923107121842">+92 3494898190</a>
+              <a href="tel:+923494898190">+92 3494898190</a>
             </p>
             <p className="text-[#4A5056] text-[16px] m-1">
-              <a href="mailto:moiznadeem1243@gmail.com">
+              <a href="mailto:imransafdar360@gmail.com">
                 imransafdar360@gmail.com
               </a>
             </p>
